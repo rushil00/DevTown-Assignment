@@ -2,7 +2,7 @@
 The assignment task for Data Science Internship as given in the Document.
 Following are the Deliverables that are linked/attached to this repository:-
 <ol>
-  <li><a href= "https://drive.google.com/drive/folders/1uMzjFF-YIx669mUli3lL40yLAx58UGVB?usp=sharing"><h3>Explainer Video Link:-</h3></a> This link takes you to the explainer video and the Short hypothetical mentoring note.</li>
+  <li><h3>Explainer Video Link:-</h3> <a href= "https://drive.google.com/drive/folders/1uMzjFF-YIx669mUli3lL40yLAx58UGVB?usp=sharing">This link takes you to the explainer video and the Short hypothetical mentoring note.</a></li>
   <br><li>The required Dataset, Trained Model file alongwith exploratory analysis in the Jupyter notebook is given in this repository.</li>
 </ol>
 <h3>Important Note:</h3>
